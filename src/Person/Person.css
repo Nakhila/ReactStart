@@ -1,0 +1,11 @@
+.person{
+    border:1px solid black;
+    padding:12px;
+    text-align: center;
+}
+
+@media (min-width:500px){
+    .person{
+        width:450px;
+    }
+}
